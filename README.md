@@ -52,7 +52,6 @@ The data warehouse consists of multiple tables, categorized as dimension, fact, 
 - **🗄 Database Management System (DBMS):** MySQL or PostgreSQL for structured data storage.
 - **🔍 SQL:** Used for database querying and management.
 - **📐 Data Modeling:** Star schema structure with optimized fact and dimension tables.
-- **🔄 ETL Tools:** Apache Airflow, Talend, or Informatica for data extraction, transformation, and loading (ETL).
 - **📊 Data Visualization:** Tableau, Power BI, or Looker for dashboards and reports.
 
 ## **4. Key Features and Enhancements** 🚀
